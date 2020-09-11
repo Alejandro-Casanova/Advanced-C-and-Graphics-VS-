@@ -1,0 +1,3 @@
+C:\Users\aleca\source\repos\Bengine\Debug\Bengine.pdb
+C:\Users\aleca\source\repos\Bengine\Bengine\Debug\Bengine.lib
+C:\Users\aleca\source\repos\Bengine\Bengine\Debug\Bengine.pdb

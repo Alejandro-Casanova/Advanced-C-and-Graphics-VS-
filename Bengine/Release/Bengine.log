@@ -1,0 +1,42 @@
+﻿  pch.cpp
+  AudioEngine.cpp
+  Bengine.cpp
+  BengineErrors.cpp
+  Camera2D.cpp
+  DebugRenderer.cpp
+C:\Users\aleca\source\repos\Bengine\Bengine\DebugRenderer.cpp(181,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GLSLProgram.cpp
+  GUI.cpp
+C:\Users\aleca\source\repos\Bengine\Bengine\GUI.cpp(240,27): warning C4018: '<': signed/unsigned mismatch
+  IMainGame.cpp
+C:\Users\aleca\source\repos\Bengine\Bengine\IMainGame.cpp(31,21): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IMainGame.cpp(40,26): warning C4244: 'initializing': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IMainGame.cpp(41,21): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IMainGame.cpp(122,67): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IMainGame.cpp(122,52): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  IOManager.cpp
+C:\Users\aleca\source\repos\Bengine\Bengine\IOManager.cpp(24,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IOManager.cpp(28,29): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IOManager.cpp(48,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\aleca\source\repos\Bengine\Bengine\IOManager.cpp(52,29): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  ImageLoader.cpp
+  InputManager.cpp
+  ParticleBatch2D.cpp
+  ParticleEngine2D.cpp
+  ResourceManager.cpp
+  ScreenList.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+  SpriteFont.cpp
+  TextureCache.cpp
+  Timing.cpp
+  Compiling...
+  Window.cpp
+  picoPNG.cpp
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+openGL32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIBase-0.lib(CEGUIBase-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIOpenGLRenderer-0.lib(CEGUIOpenGLRenderer-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  Bengine.vcxproj -> C:\Users\aleca\source\repos\Bengine\Bengine\Release\Bengine.lib

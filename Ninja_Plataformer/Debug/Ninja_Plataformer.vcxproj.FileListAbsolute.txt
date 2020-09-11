@@ -1,0 +1,2 @@
+C:\Users\aleca\source\repos\Bengine\Ninja_Plataformer\Debug\Ninja_Plataformer.exe
+C:\Users\aleca\source\repos\Bengine\Ninja_Plataformer\Debug\Ninja_Plataformer.pdb
